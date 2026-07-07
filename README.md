@@ -77,7 +77,7 @@ This page leverages Power BI's AI-powered Key Influencers visual to identify the
 
 ### Dashboard Preview
 
-![Key Influencers](assets/dashboard-2.png)
+![Key Influencers](https://raw.githubusercontent.com/Omprakash0009/Maven-Cycles-Sales-Performance-Dashboard-Power-BI/25d376b2dc0d9af23db61ac01548c2a125ad12b4/Maven%20cycle%20Report_Raw_page-0002.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ The Decomposition Tree enables users to drill down into revenue across multiple 
 
 ### Dashboard Preview
 
-![Decomposition Tree](assets/dashboard-3.png)
+![Decomposition Tree](https://raw.githubusercontent.com/Omprakash0009/Maven-Cycles-Sales-Performance-Dashboard-Power-BI/25d376b2dc0d9af23db61ac01548c2a125ad12b4/Maven%20cycle%20Report_Raw_page-0003.jpg)
 
 ---
 
@@ -113,7 +113,7 @@ The Clustering page groups similar sales patterns to identify customer behavior 
 
 ### Dashboard Preview
 
-![Clustering Analysis](assets/dashboard-4.png)
+![Clustering Analysis](https://raw.githubusercontent.com/Omprakash0009/Maven-Cycles-Sales-Performance-Dashboard-Power-BI/25d376b2dc0d9af23db61ac01548c2a125ad12b4/Maven%20cycle%20Report_Raw_page-0004.jpg)
 
 ---
 
@@ -245,7 +245,7 @@ This project demonstrates how Power BI can transform raw business data into inte
 
 # LinkedIn
 
-**LinkedIn:** https://www.linkedin.com/in/your-profile
+**LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/om-prakash-cinenkanolu/)
 
 ---
 
