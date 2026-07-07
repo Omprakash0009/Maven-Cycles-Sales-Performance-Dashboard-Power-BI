@@ -253,11 +253,11 @@ This project demonstrates how Power BI can transform raw business data into inte
 
 For feedback, collaboration opportunities, or data analytics discussions, feel free to connect.
 
-**Email:** your-email@example.com omprakashmudiraj09@gmail.com
+**Email:** omprakashmudiraj09@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/your-profile(https://www.linkedin.com/in/om-prakash-cinenkanolu/)
+**LinkedIn:** (https://www.linkedin.com/in/om-prakash-cinenkanolu/)
 
-**Portfolio:** https://your-portfolio-link(https://captainviz.com/developer/omprakash-cinenkanolu)
+**Portfolio:** (https://captainviz.com/developer/omprakash-cinenkanolu)
 
 ---
 
