@@ -233,13 +233,13 @@ This project demonstrates how Power BI can transform raw business data into inte
 
 # Live Dashboard
 
-**Power BI Service:** https://your-dashboard-link
+**Power BI Service:** [https://your-dashboard-link](https://app.powerbi.com/reportEmbed?reportId=efd4e089-82e2-465a-a996-7ce339bca1e2&autoAuth=true&ctid=25ce0261-bbd6-49cd-a1e2-54260886d159)
 
 ---
 
 # Portfolio
 
-**Portfolio:** https://your-portfolio-link
+**Portfolio:** [https://your-portfolio-link](https://captainviz.com/developer/omprakash-cinenkanolu)
 
 ---
 
@@ -253,11 +253,11 @@ This project demonstrates how Power BI can transform raw business data into inte
 
 For feedback, collaboration opportunities, or data analytics discussions, feel free to connect.
 
-**Email:** your-email@example.com
+**Email:** your-email@example.com omprakashmudiraj09@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/your-profile
+**LinkedIn:** https://www.linkedin.com/in/your-profile(https://www.linkedin.com/in/om-prakash-cinenkanolu/)
 
-**Portfolio:** https://your-portfolio-link
+**Portfolio:** https://your-portfolio-link(https://captainviz.com/developer/omprakash-cinenkanolu)
 
 ---
 
