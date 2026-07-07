@@ -59,7 +59,7 @@ The Executive Dashboard provides a high-level overview of overall business perfo
 
 ### Dashboard Preview
 
-![Executive Dashboard](assets/dashboard-1.png)
+![Executive Dashboard](https://raw.githubusercontent.com/Omprakash0009/Maven-Cycles-Sales-Performance-Dashboard-Power-BI/25d376b2dc0d9af23db61ac01548c2a125ad12b4/Maven%20cycle%20Report_Raw_page-0001.jpg)
 
 ---
 
